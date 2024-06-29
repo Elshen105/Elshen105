@@ -1,3 +1,4 @@
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Computer Science (Backend Developer)</b>
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/> </p>
@@ -29,6 +30,7 @@
  </p>
 
 <br>
+
 
 
  
@@ -64,6 +66,10 @@ jobs:
 -->
 
 
+
+
+
+ 
 
 
 
