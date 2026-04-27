@@ -13,7 +13,7 @@
 ```java
 public class Elshen {
 
-    String name     = "Elshen Huseynov";
+    String name     = "Elshen Naghizade";
     String role     = "Backend Developer";
     String language = "Java";
 
