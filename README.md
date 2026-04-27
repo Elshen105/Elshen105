@@ -1,36 +1,73 @@
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Computer Science (Backend Developer)</b>
+<div align="center">
 
-<br>
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Elshen%20Huseynov&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Backend%20Developer%20%7C%20Java%20Enthusiast&descAlignY=55&descAlign=50)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+Elshen105+GitHub+Page;)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Java+Backend+Developer+%F0%9F%9A%80;Spring+Boot+%7C+Microservices+%7C+Docker;Clean+Code+%7C+Problem+Solver;Always+learning+new+things...)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> <b>Languages and Tools:</b>
+## 👨‍💻 About Me
 
-<table border="0">
-  <tr>
-    <td><a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.java.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.jenkins.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a></td>
-    <td><a href="https://www.selenium.dev/" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/></a></td>
-  </tr>
-</table>
+```java
+public class Elshen {
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=4&section=header&animation=twinkling" width="100%"/>
+    String name     = "Elshen Huseynov";
+    String role     = "Backend Developer";
+    String language = "Java";
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+    String[] technologies = {
+        "Spring Boot", "Docker", "PostgreSQL",
+        "MySQL", "Git", "Jenkins", "Selenium"
+    };
 
-<br>
+    String currentlyLearning = "Microservices & Cloud";
+    String goal = "Write clean, scalable code";
+}
+```
 
-![](https://github.com/BEPb/BEPb/raw/output/github-contribution-grid-snake.svg)
+---
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+## 🛠️ Languages and Tools
+
+<div align="center">
+
+| Oracle | Java | Python | Docker | PostgreSQL | Git |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48"/></a> | <a href="https://www.java.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="48"/></a> | <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="48"/></a> | <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48"/></a> | <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48"/></a> | <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48"/></a> |
+
+| HTML5 | CSS3 | Jenkins | MySQL | Selenium |
+|:---:|:---:|:---:|:---:|:---:|
+| <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="48"/></a> | <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="48"/></a> | <a href="https://www.jenkins.io/"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="48"/></a> | <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48"/></a> | <a href="https://www.selenium.dev/"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="48"/></a> |
+
+</div>
+
+![line](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Elshen105&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elshen105&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Elshen105&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Elshen105/Elshen105/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)
