@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-![rainbow line](https://github.com/Elshen105/Elshen105/blob/main/rainbow.svg)
+![rainbow line](https://raw.githubusercontent.com/Elshen105/Elshen105/main/rainbow.svg)
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
