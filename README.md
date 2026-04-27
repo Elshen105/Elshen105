@@ -64,9 +64,9 @@ public class Elshen {
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake gif](https://github.com/Elshen105/Elshen105/blob/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+</div>
 
 ---
 
