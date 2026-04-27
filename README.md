@@ -47,6 +47,11 @@ public class Elshen {
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400"/>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -64,9 +69,7 @@ public class Elshen {
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
-</div>
+
 
 ---
 
